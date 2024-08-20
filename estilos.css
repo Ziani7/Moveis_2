@@ -5,3 +5,9 @@ h1 {
 li{
 	font-family: monospasce; 
 }
+
+body{
+	width: 50%;
+	margin: auto;
+}
+
